@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.links{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+img{
+    height: 50px;
+}
+
+.card{
+    height: 400px;
+    width: 200px;
+    border: 1px solid;
+}
+
+.container{
+    display: flex;
+}
